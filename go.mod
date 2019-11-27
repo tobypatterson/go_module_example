@@ -1,3 +1,3 @@
-module github.com/tobypatterson/go_module_example
+module github.com/tobypatterson/quotes
 
 go 1.13
